@@ -7,4 +7,14 @@
 
 ## Commands
 
-## commit 1 
+## commit 1 : Typescript installation
+
+  - $ npm i express cors socket-io
+  - $ npm i --save-dev nodemon typescript 
+
+  installation des types
+  - $ npm i --save-dev @types/node @types/express @types/cors
+
+  initialisation de Typescript
+  - $ npx tsc --init
+
