@@ -8,29 +8,29 @@
 # Commands
   ## ./
 
-   - $ `npm start`  
+  `npm start` launch server on port 5000
 
   ## ./Front
 
 # List of Steps
   ## commit 1 : Typescript installation
 
-    - $ `npm i express cors socket.io`
-    - $ `npm i --save-dev nodemon typescript ts-node`
+    npm i express cors socket.io
+    npm i --save-dev nodemon typescript ts-node
 
-    installation des types
-    - $ `npm i --save-dev @types/node @types/express @types/cors`
+  ### installation des types
+    npm i --save-dev @types/node @types/express @types/cors
 
-    initialisation de Typescript
-    - $ `npx tsc --init`
+  ### initialisation de Typescript
+    npx tsc --init
 
   ## commit 2 : create server
-    - $ `touch server.ts`
-    - create simple server listener
-    - add nodemon script to launch server.ts
+    touch server.ts
+  - create simple server listener
+  - add nodemon script to launch server.ts
 
 
   ## commit 3 : initialize socket-io
-    - $ `npm i @types/socket.io`
-    - importer socket dans server.ts
-    - créer des connections et des événements "voir commit : add socket connection"
+    npm i @types/socket.io
+  - importer socket dans server.ts
+  - créer des connections et des événements "voir commit : add socket connection"
