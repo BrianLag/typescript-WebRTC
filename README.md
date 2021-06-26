@@ -5,26 +5,32 @@
   tuto adapté de la vidéo Youtube de Darwin Tech : https://www.youtube.com/watch?v=gnM3Ld6_upE
                                      
 
-## Commands
+# Commands
+  ## ./
 
-## commit 1 : Typescript installation
+   - $ `npm start`  
 
-  - $ npm i express cors socket.io
-  - $ npm i --save-dev nodemon typescript ts-node
+  ## ./Front
 
-  installation des types
-  - $ npm i --save-dev @types/node @types/express @types/cors
+# List of Steps
+  ## commit 1 : Typescript installation
 
-  initialisation de Typescript
-  - $ npx tsc --init
+    - $ `npm i express cors socket.io`
+    - $ `npm i --save-dev nodemon typescript ts-node`
 
-## commit 2 : create server
-  - $ touch server.ts
-  - create simple server listener
-  - add nodemon script to launch server.ts
+    installation des types
+    - $ `npm i --save-dev @types/node @types/express @types/cors`
+
+    initialisation de Typescript
+    - $ `npx tsc --init`
+
+  ## commit 2 : create server
+    - $ `touch server.ts`
+    - create simple server listener
+    - add nodemon script to launch server.ts
 
 
-## commit 3 : initialize socket-io
-  - $ npm i @types/socket.io
-  - importer socket dans server.ts
-  - créer des connections et des événements "voir commit : add socket connection"
+  ## commit 3 : initialize socket-io
+    - $ `npm i @types/socket.io`
+    - importer socket dans server.ts
+    - créer des connections et des événements "voir commit : add socket connection"
