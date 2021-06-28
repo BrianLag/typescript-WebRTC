@@ -49,4 +49,12 @@
 
   ## step 5 : add react-copy-to-clipboard
   - import textfield from material icon and create useState to save name and link to copy
+
+
+# Etat du projet 
+  - [x] Server Typescript
+  - [ ] Chat Vidéo 
+  - [ ] Add delight to the experience when all tasks are complete :tada:
+ 
+Projet ~~terminé~~  terminé un jour
     
