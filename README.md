@@ -54,7 +54,7 @@
 # Etat du projet 
   - [x] Server Typescript
   - [ ] Chat Vidéo 
-  - [ ] Add delight to the experience when all tasks are complete :tada:
+  - [ ] Mise au propre du README
  
 Projet ~~terminé~~  terminé un jour
     
