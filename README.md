@@ -56,5 +56,6 @@
   - [ ] Chat Vidéo 
   - [ ] Mise au propre du README
  
-Projet ~~terminé~~  terminé un jour
+~~Projet terminé~~ 
+***Projet toujours en cours***
     
